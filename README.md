@@ -1,1 +1,2 @@
-A repo for sample spring cloud config server properties files.
+# mderider-SomeApplication1
+Sample repo for spring cloud config server properties for an application called "SomeApplication1"
